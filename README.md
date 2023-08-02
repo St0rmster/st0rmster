@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm St0rmster</h1>
-<h3 align="left">I'm a Passionate Programmer and Developer </h3>
+<h3 align="left">I'm a Passionate Programmer and Developer. </h3>
 
 <p align="left" width="47%"> <img src="https://komarev.com/ghpvc/?username=St0rmster&label=Profile%20views&color=0e75b6&style=flat" alt="St0rmster" /> </p>
 
