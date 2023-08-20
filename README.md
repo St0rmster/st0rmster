@@ -1,5 +1,4 @@
-<h1 align="left">Hi, I'm St0rmster</h1>
-<h3 align="left">I like to program and develop things. </h3>
+<h1 align="left">Hi, I'm St0rmster, I like to program and develop things</h1>
 <h3 align="left">If you have any queries or wish to contact me my discord is @st0rmster or st0rmster#4309 </h3>
 
 
