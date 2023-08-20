@@ -1,5 +1,8 @@
 <h1 align="left">Hi, I'm St0rmster</h1>
-<h3 align="left">I like to program and develop things </h3>
+<h3 align="left">I like to program and develop things. </h3>
+<h3 align="left">If you have any queries or wish to contact me my discord is @st0rmster or st0rmster#4309 </h3>
+
+
 
 <p align="left" width="47%"> <img src="https://komarev.com/ghpvc/?username=St0rmster&label=Profile%20views&color=0e75b6&style=flat" alt="St0rmster" /> </p>
 
