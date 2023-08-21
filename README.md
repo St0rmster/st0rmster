@@ -1,5 +1,5 @@
-<h1 align="left">I'm a Hardware and software enthusiast who likes programming and developing things.</h1>
-<h3 align="left">If you have any queries or wish to contact me my discord is @st0rmster or st0rmster#4309 </h3>
+<h1 align="center">I'm a Hardware and software enthusiast who likes programming and developing things.</h1>
+<h3 align="center">If you have any queries or wish to contact me my discord is @st0rmster or st0rmster#4309 </h3>
 
 
 
@@ -9,4 +9,3 @@
 [![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
