@@ -1,4 +1,4 @@
-<h1 align="center">I'm a Hardware and software enthusiast who likes programming and developing things.</h1>
+<h1 align="center">Hardware and software enthusiast who likes programming and developing things.</h1>
 <h3 align="center">If you have any queries or wish to contact me my discord is @st0rmster or st0rmster#4309 </h3>
 
 
