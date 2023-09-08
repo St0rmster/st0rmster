@@ -1,7 +1,3 @@
-<h1 align="center">Hardware and software enthusiast who likes programming and developing things.</h1>
-<h3 align="center">If you have any queries or wish to contact me my discord is @st0rmster or st0rmster#4309 </h3>
-
-
 
 <p align="left" width="47%"> <img src="https://komarev.com/ghpvc/?username=St0rmster&label=Profile%20views&color=0e75b6&style=flat" alt="St0rmster" /> </p>
 
