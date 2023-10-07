@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/St0rmster?label=Github Followers&style=social)](https://github.com/Thaiane)" />
 </p>
 
-<h4> I am a Hardware and software enthusiast who likes programming and developing things! </h3>
+<h3> I am a Hardware and software enthusiast who likes programming and developing things! </h3>
 <!-- Add a horizontal line for separation -->
 <hr>
 
