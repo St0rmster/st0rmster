@@ -1,8 +1,35 @@
+<!-- Add a horizontal line for separation -->
+<hr>
 
-<p align="left" width="47%"> <img src="https://komarev.com/ghpvc/?username=St0rmster&label=Profile%20views&color=2bed07&style=flat" alt="St0rmster" /> </p>
+<!-- Add a profile view counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=St0rmster&style=plastic&label=views&color=orange" alt="St0rmster" />
+</p>
 
+<!-- Introduction -->
+:wave: Hello, My name is St0rmster, and I am a Hardware and software enthusiast who likes programming and developing things.
 
-[![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/St0rmster/St0rmster/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- Another horizontal line for separation -->
+<hr>
+
+<!-- GitHub Statistics Section -->
+<details>
+  <summary>Github Statistics...</summary><br/>
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=St0rmster&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  </p>
+</details>
+
+<!-- Add a horizontal line for separation -->
+<hr>
+
+<!-- Additional sections can be added as you see fit -->
+<details>
+  <summary>Language Statistics...</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@018b0810-4868-48f3-b9be-e999aea99e36/d0fdf7ec-407d-4b58-b2c1-e3077f463df6.svg" height="400" />
+  </p>
+</details>
+
+<hr>
 
