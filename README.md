@@ -1,45 +1,20 @@
-<!-- Add a horizontal line for separation -->
-<hr>
 
-<!-- Add a profile view counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=St0rmster&style=plastic&label=Views&color=orange" alt="St0rmster" />
-  <img src="https://img.shields.io/github/followers/St0rmster?label=Github Followers&style=social)](https://github.com/Thaiane)" />
-</p>
 
 <!-- Introduction -->
 
 # 👋 Hello, My name is St0rmster!
 
-<!-- Another horizontal line for separation -->
-<hr>
-
-<!-- GitHub Statistics Section -->
-<details>
-  <summary>Github Statistics...</summary><br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=St0rmster&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=St0rmster" alt="GitHub Streak" />
-  </p>
-</details>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=St0rmster&style=plastic&label=Views&color=orange" alt="St0rmster" />
+  <img src="https://img.shields.io/github/followers/St0rmster?label=Github Followers&style=social)](https://github.com/Thaiane)" />
+</p>
 
 <!-- Add a horizontal line for separation -->
-<hr>
-
-<!-- Language Statistics Section -->
-<details>
-  <summary>Language Statistics...</summary>
-  <p align="center">
-    <img src="https://wakatime.com/badge/github/@018b0810-4868-48f3-b9be-e999aea99e36/a5cc0c6d-b17a-4d37-81ff-fe3741f9925f.svg" height="400" />
-    <img src="https://wakatime.com/badge/github/@018b0810-4868-48f3-b9be-e999aea99e36/ee0b4b26-8c82-4d86-86a3-372d2e8f44e2.svg" height="400" />
-  </p>
-</details>
-
-<!-- Add a horizontal line for separation -->
+<h3> I am a Hardware and software enthusiast who likes programming and developing things! </h2>
 <hr>
 
 
- <h3> Git Commit Streak Stats</h3>
+ <h4> Git Commit Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
@@ -48,7 +23,7 @@
     </a>
 
 
-  <h3> GitHub Profile Stats</h3>
+  <h4> GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
