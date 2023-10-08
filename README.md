@@ -4,7 +4,7 @@
 
 <!-- Add a profile view counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=St0rmster&style=plastic&label=Views&color=orange" alt="St0rmster" />
+  <img src="https://komarev.com/ghpvc/?username=St0rmster&style=plastic&label=Profile Views&color=orange" alt="St0rmster" />
   <img src="https://img.shields.io/github/followers/St0rmster?label=Github Followers&style=social)](https://github.com/Thaiane)" />
 </p>
 
