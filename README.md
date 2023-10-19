@@ -1,6 +1,6 @@
 <!-- Introduction -->
 
-# Hello, My name is St0rmster!
+# :wave: Hello, My name is St0rmster!
 
 <!-- Add a profile view counter -->
 <p align="left">
